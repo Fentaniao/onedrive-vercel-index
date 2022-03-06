@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:spencer.wushangbo@gmail.com',
+  email: 'mailto:fentaniao@gmail.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -50,12 +50,12 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/fentaniao/onedrive-vercel-index',
     },
-    {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
-    },
+    // {
+    //   name: 'Telegram',
+    //   link: 'https://t.me/realSpencerWoo',
+    // },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to

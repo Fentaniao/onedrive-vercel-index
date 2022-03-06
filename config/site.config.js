@@ -14,7 +14,7 @@ module.exports = {
   icon: '/favicon.ico',
 
   // The name of your website. Present alongside your icon.
-  title: "Ruiyang Zhou's OneDrive",
+  title: "Ruiyang Zhou's Cloud Space",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: 'CreativeSpace/Public',
